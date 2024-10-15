@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\InheritancePolymorphism.exe.config
+C:\Users\justi\source\repos\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\InheritancePolymorphism.exe
+C:\Users\justi\source\repos\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\InheritancePolymorphism.pdb
+C:\Users\justi\source\repos\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\InheritancePolymorphism.csproj.AssemblyReference.cache
+C:\Users\justi\source\repos\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\InheritancePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\InheritancePolymorphism.exe
+C:\Users\justi\source\repos\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\InheritancePolymorphism.pdb

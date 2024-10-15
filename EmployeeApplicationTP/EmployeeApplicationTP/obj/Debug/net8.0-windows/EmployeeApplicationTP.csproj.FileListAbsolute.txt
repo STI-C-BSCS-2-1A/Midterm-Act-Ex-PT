@@ -1,0 +1,16 @@
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\bin\Debug\net8.0-windows\EmployeeApplicationTP.exe
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\bin\Debug\net8.0-windows\EmployeeApplicationTP.deps.json
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\bin\Debug\net8.0-windows\EmployeeApplicationTP.runtimeconfig.json
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\bin\Debug\net8.0-windows\EmployeeApplicationTP.dll
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\bin\Debug\net8.0-windows\EmployeeApplicationTP.pdb
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.csproj.GenerateResource.cache
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.AssemblyInfoInputs.cache
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.AssemblyInfo.cs
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.dll
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\refint\EmployeeApplicationTP.dll
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.pdb
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.genruntimeconfig.cache
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\ref\EmployeeApplicationTP.dll
+C:\Users\justi\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\net8.0-windows\EmployeeApplicationTP.frmComputerSalary.resources

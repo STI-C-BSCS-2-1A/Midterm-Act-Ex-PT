@@ -1,0 +1,10 @@
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\bin\Debug\EmployeeApplicationTP.exe.config
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\bin\Debug\EmployeeApplicationTP.exe
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\bin\Debug\EmployeeApplicationTP.pdb
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\EmployeeApplicationTP.csproj.AssemblyReference.cache
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\EmployeeApplicationTP.frmComputeSalary.resources
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\EmployeeApplicationTP.Properties.Resources.resources
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\EmployeeApplicationTP.csproj.GenerateResource.cache
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\EmployeeApplicationTP.csproj.CoreCompileInputs.cache
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\EmployeeApplicationTP.exe
+C:\Users\JONALYN\source\repos\EmployeeApplicationTP\EmployeeApplicationTP\obj\Debug\EmployeeApplicationTP.pdb
